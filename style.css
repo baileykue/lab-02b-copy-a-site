@@ -35,3 +35,7 @@ main {
 #big {
 grid-area: big;
 }
+
+img {
+    width: 100%;
+}
